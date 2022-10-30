@@ -1,0 +1,34 @@
+table { 
+  border-collapse: collapse;
+  border-color: blue;
+}
+th {
+  padding: 0.2rem;
+  text-align: center;
+  border: 1px solid rgb(8, 7, 7);
+  background-color: rgb(212, 192, 161);
+  font-family: 'Red Hat Mono', monospace;
+}
+td {
+  padding: 0.2rem;
+  text-align: center;
+  border: 1px solid rgb(8, 7, 7);
+  color: rgb(83, 79, 79);
+  background-color: rgb(246, 236, 219);
+  font-family: 'Red Hat Mono', monospace;
+}
+
+h1 {
+  text-align: center;
+  color: brown;
+  font-family: 'Red Hat Mono', monospace;
+
+}
+li{
+  color: rgb(165, 42, 42);
+  font-family: 'Red Hat Mono', monospace;
+}
+a {
+  color:  rgb(165, 42, 42);
+}
+  

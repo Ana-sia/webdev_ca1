@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+    color: brown;
+    font-family: 'Red Hat Mono', monospace;
+  
+  }
+  li{
+    color: brown;
+    font-family: 'Red Hat Mono', monospace;
+  }
+
+  p1{
+    color: brown;
+    font-family: 'Red Hat Mono', monospace;
+  }
+  a {
+    color: rgb(100, 89, 95);
+  }
+  a:visited {
+    color: rgb(212, 192, 161);
+  }
